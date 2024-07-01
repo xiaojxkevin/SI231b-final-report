@@ -1,1 +1,1 @@
-# This is the code repo for final SI231b Final Project in 24Spring.
+# This is the code repo for SI231b Final Project in 24Spring in ShanghaiTech.
